@@ -19,16 +19,20 @@ Victor Fernando - RM85058
 ## Como Testar
 
 1. Abrir a aplicação no Localhost:3030
-2. http://localhost:3030/list
+2. http://localhost:3030/list      
+
+
   Para cadastrar uma fruta
-1. Preencher os campos: 
-  Nome da Fruta: Banana
-  Categoria: Amarelo
-  Lote: 232
-  Data da Análise: 20/11/2021
-2. Clicar em cadastrar
-  Para Excluir um fruta
-1. Clicar em Deletar
+1. Preencher os campos:        
+  Nome da Fruta: Banana        
+  Categoria: Amarelo        
+  Lote: 232         
+  Data da Análise: 20/11/2021              
+2. Clicar em cadastrar            
+
+
+  Para Excluir um fruta         
+1. Clicar em Deletar         
 
 ## Link de vídeo demonstração
 
